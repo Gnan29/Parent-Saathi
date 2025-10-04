@@ -106,7 +106,7 @@ const ParentDashboard: React.FC = () => {
       <footer className="bg-gradient-to-r from-blue-600 via-blue-500 to-green-500 text-white mt-12">
         <KalamkariPattern />
         <div className="container mx-auto px-4 py-6 text-center">
-          <p>© 2024 Parent Saathi - Empowering Parents Through Knowledge</p>
+          <p>© 2025 Parent Saathi - Empowering Parents Through Knowledge</p>
         </div>
       </footer>
     </div>
